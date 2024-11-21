@@ -1,3 +1,4 @@
+Project By Rudransh Sharma
 # Emotion-Recognition-Project
 Emotion Recognition Software
 This is an Emotion Recognition software built using Python, designed to detect emotions from text, speech, or facial expressions. The system uses advanced machine learning models to identify various emotions, including happiness, sadness, anger, surprise, and more. It is designed for ease of use and integrates well with various input methods.
